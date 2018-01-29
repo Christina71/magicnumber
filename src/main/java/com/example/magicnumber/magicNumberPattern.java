@@ -28,7 +28,7 @@ public class magicNumberPattern {
             }
 
         }
-        return "Your web page prints:" + "<br>" + "Starting number: "  + num +"<br>" + output;
+        return "Your web page prints:" + "<br>" + "Starting number: " + num +"<br>" + output;
     }
 }
 
